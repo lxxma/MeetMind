@@ -35,8 +35,14 @@
 - Tailwind
 
 
-## Wireframes
-![Wireframes](wireframes.jpeg)
+## Screenshots of the Application Flow
+### Welcome Page (Public View)
+
+Shows the platform and its main features.
+
+![Welcome Page](LP.png)
+
+---
 
 
 ## Getting Started/Code Installation
