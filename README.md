@@ -44,6 +44,46 @@ Shows the platform and its main features.
 
 ---
 
+### Login Page
+
+Existing users can log in with their email/username and password, while new users can sign up easily.
+
+![Login Page](Login.png)
+
+---
+
+### Home Page
+
+The Home Page provides quick access to study rooms, your profile, topics, and the Create Room button. It also shows recent activity notifications to keep you updated on your latest actions.
+
+![Home Page](Homepage.jpg)
+
+---
+
+### Create room Page
+
+Create Room page allows you to set up a new study room by specifying a topic, name, and description.
+
+![create room page](createroom.jpeg)
+
+---
+
+### Study room page
+
+Study Room page allows users to send messages, participate in discussions, and interact with others. It also features a Leave button to exit the room at any time.
+
+![Studyroom page](studyroom.jpg)
+
+---
+
+### Recent activity 
+
+Recent Activity section displays notifications of your actions, including when you edit or delete rooms, keeping you updated on your latest changes.
+
+![Recent Activity ](recentativity.png)
+
+
+--- 
 
 ## Getting Started/Code Installation
 
@@ -98,9 +138,6 @@ Allow hosts to plan sessions and notify participants.
 
 - Room Recording and Replay
 Save and rewatch valuable study sessions.
-
-- Collaborative Whiteboard or Code Editor
-Include tools for real-time note-taking or pair programming.
 
 - Private Rooms & Invitation-Only Access
 Support focused group work with privacy controls.
