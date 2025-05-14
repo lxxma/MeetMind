@@ -1,4 +1,4 @@
-![Createroom](https://github.com/user-attachments/assets/9a463c33-8801-4452-9372-d2b5a7d7bc23)# MeetMind
+# MeetMind
 
 **MindMeet** is a collaborative learning platform where users can create and join study rooms, participate in discussions, and explore topics of interest. Each room is associated with a specific topic, and users can engage in conversations, ask questions, and share knowledge in real-time. The platform also provides the ability to manage user profiles and track room activities, making it an ideal tool for learners to study together and help each other grow.
 
@@ -91,8 +91,8 @@ To clone the project up and running on your local machine, follow these instruct
 
 #### 1. Clone the repo:
 
-- `git clone https://git.generalassemb.ly/lama-asiri/MeetMind-frontend.git`
-- `git clone https://git.generalassemb.ly/lama-asiri/MeetMind-backend.git`
+- `https://github.com/lxxma/MeetMind/tree/main/MeetMind-backend`
+- `https://github.com/lxxma/MeetMind/tree/main/MeetMind-frontend`
 
 #### 2. Install backend dependencies:
 
@@ -119,6 +119,7 @@ Make migrations and migrate the database:
 
 ### 4. Start the Django development server:
 
+- `cd backend`
 - `python3 manage.py runserver`
 
 
