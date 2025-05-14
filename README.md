@@ -72,7 +72,7 @@ Create Room page allows you to set up a new study room by specifying a topic, na
 
 Study Room page allows users to send messages, participate in discussions, and interact with others. It also features a Leave button to exit the room at any time.
 
-![Studyroom page](studyroom.jpg)
+![Studyroom page](Studyroom.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ Study Room page allows users to send messages, participate in discussions, and i
 
 Recent Activity section displays notifications of your actions, including when you edit or delete rooms, keeping you updated on your latest changes.
 
-![Recent Activity ](recentativity.png)
+![Recent Activity ](recentactivity.png)
 
 
 --- 
