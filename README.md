@@ -1,4 +1,4 @@
-# MeetMind
+![Createroom](https://github.com/user-attachments/assets/9a463c33-8801-4452-9372-d2b5a7d7bc23)# MeetMind
 
 **MindMeet** is a collaborative learning platform where users can create and join study rooms, participate in discussions, and explore topics of interest. Each room is associated with a specific topic, and users can engage in conversations, ask questions, and share knowledge in real-time. The platform also provides the ability to manage user profiles and track room activities, making it an ideal tool for learners to study together and help each other grow.
 
@@ -64,7 +64,7 @@ The Home Page provides quick access to study rooms, your profile, topics, and th
 
 Create Room page allows you to set up a new study room by specifying a topic, name, and description.
 
-![create room page](createroom.jpeg)
+![create room page](Createroom.jpeg)
 
 ---
 
