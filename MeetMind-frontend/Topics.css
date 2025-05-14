@@ -1,0 +1,45 @@
+.topics-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .topics-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .topic-card {
+    background-color: #fff;
+    border: 1px solid #e1e1e1;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+  }
+  
+  .topic-card:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .topic-card h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .topic-card p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #666;
+  }
+  
